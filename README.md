@@ -26,7 +26,7 @@
 
 </div>
 
----
+<br>
 
 ### Estatísticas do GitHub
 
@@ -50,20 +50,29 @@
 
 </div>
 
----
+<br>
 
 ### Stack & Ferramentas
 
 <div align="center">
 
-<!-- Ícones de Tecnologia (Unificado e sem repetição) -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,postgres,redis,docker,tailwind,git,github&theme=dark&perline=11" alt="Tech Stack" />
-</a>
+<!-- Tudo em uma linha só, clicável com tooltip -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href="https://www.typescriptlang.org/docs/" target="_blank" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" /></a>
+<a href="https://nodejs.org/en/docs" target="_blank" title="Node.js"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+<a href="https://react.dev/" target="_blank" title="React"><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href="https://nextjs.org/docs" target="_blank" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+<a href="https://fastify.dev/docs/latest/" target="_blank" title="Fastify"><img src="https://cdn.simpleicons.org/fastify/FF5722" alt="Fastify" height="48" /></a>
+<a href="https://www.postgresql.org/docs/" target="_blank" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+<a href="https://redis.io/docs/" target="_blank" title="Redis"><img src="https://skillicons.dev/icons?i=redis" /></a>
+<a href="https://docs.docker.com/" target="_blank" title="Docker"><img src="https://skillicons.dev/icons?i=docker" /></a>
+<a href="https://tailwindcss.com/docs" target="_blank" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+<a href="https://git-scm.com/doc" target="_blank" title="Git"><img src="https://skillicons.dev/icons?i=git" /></a>
+<a href="https://docs.github.com/" target="_blank" title="GitHub"><img src="https://skillicons.dev/icons?i=github" /></a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
