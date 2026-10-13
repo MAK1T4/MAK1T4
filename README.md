@@ -8,7 +8,7 @@
 
 <!-- Animação de digitação — Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=600&height=80&lines=Matheus+Rocha;Desenvolvedor+Full+Stack;Construindo+produtos+reais+para+produ%C3%A7%C3%A3o" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=600&height=80&lines=Matheus+Rocha;Desenvolvedor+Full+Stack" alt="Typing SVG" />
 </a>
 
 <br/>
