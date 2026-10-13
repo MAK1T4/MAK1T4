@@ -34,7 +34,7 @@
 
 <!-- Gráfico de Atividade (Estilo GitHub Contribution Graph) -->
 <a href="https://github.com/MAK1T4">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M4R1T4&bg_color=0B1120&color=FF5722&line=FF5722&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividade" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAK1T4&bg_color=0B1120&color=FF5722&line=FF5722&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividade" width="100%"/>
 </a>
 
 </div>
