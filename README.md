@@ -28,20 +28,25 @@
 
 ---
 
-### 📊 Estatísticas de Contribuição
+### Estatísticas do GitHub
 
 <div align="center">
 
-<!-- Gráfico de Atividade (Estilo GitHub Contribution Graph) -->
+<!-- Card de Estatísticas Gerais -->
 <a href="https://github.com/MAK1T4">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MAK1T4&bg_color=0B1120&color=FF5722&line=FF5722&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de Atividade" width="100%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MAK1T4&show_icons=true&theme=dark&bg_color=0B1120&title_color=FF5722&icon_color=FF5722&text_color=E2E8F0&border_color=1E293B&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
+
+<!-- Card de Sequência de Contribuições (Streak) -->
+<a href="https://github.com/MAK1T4">
+  <img height="180em" src="https://streak-stats.demolab.com?user=MAK1T4&theme=dark&background=0B1120&border=1E293B&stroke=FF5722&ring=FF5722&fire=FF5722&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=FF5722&sideLabels=E2E8F0&dates=E2E8F0" alt="GitHub Streak" />
 </a>
 
 </div>
 
 ---
 
-### 🛠️ Stack & Ferramentas
+### Stack & Ferramentas
 
 <div align="center">
 
